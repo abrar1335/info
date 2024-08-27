@@ -302,7 +302,7 @@ header .close {
     height: 500px;
     /* border: 1px solid #000; */
     display: flex;
-    /* background-image: url(./img/Home/form_bg.jpg); */
+    /* background-image: url(./Home/form_bg.jpg); */
     background-repeat: no-repeat;
     background-size: cover;
     background-position: top 25% right 0%;
@@ -597,7 +597,7 @@ footer .foot .icon i {
 }
 
 .jewelrys .side .jewelry {
-    background-image: url(./img/dance/j1.webp);
+    background-image: url(./dance/j1.webp);
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
@@ -610,7 +610,7 @@ footer .foot .icon i {
 }
 
 .jewelrys .side .jewelry2 {
-    background-image: url(./img/music/mi1.jpeg);
+    background-image: url(./music/mi1.jpeg);
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
@@ -635,56 +635,56 @@ footer .foot .icon i {
 
 @keyframes Image {
     0% {
-        background-image: url(./img/dance/j1.webp);
+        background-image: url(./dance/j1.webp);
     }
 
     20% {
-        background-image: url(./img/dance/j2.webp);
+        background-image: url(./dance/j2.webp);
     }
 
     40% {
-        background-image: url(./img/dance/j3.jpg);
+        background-image: url(./dance/j3.jpg);
 
     }
 
     60% {
-        background-image: url(./img/dance/j4.jpg);
+        background-image: url(./dance/j4.jpg);
     }
 
     80% {
-        background-image: url(./img/dance/j5.jpeg);
+        background-image: url(./dance/j5.jpeg);
     }
 
     100% {
-        background-image: url(./img/dance/j6.jpeg);
+        background-image: url(./dance/j6.jpeg);
     }
 
 }
 
 @keyframes Image2 {
     0% {
-        background-image: url(./img/music/mi1.jpeg);
+        background-image: url(./music/mi1.jpeg);
     }
 
     20% {
-        background-image: url(./img/music/mi2.jpeg);
+        background-image: url(./music/mi2.jpeg);
     }
 
     40% {
-        background-image: url(./img/music/mi3.jpeg);
+        background-image: url(./music/mi3.jpeg);
 
     }
 
     60% {
-        background-image: url(./img/music/mi4.jpeg);
+        background-image: url(./music/mi4.jpeg);
     }
 
     80% {
-        background-image: url(./img/music/mi5.jpeg);
+        background-image: url(./music/mi5.jpeg);
     }
 
     100% {
-        background-image: url(./img/music/mi6.jpeg);
+        background-image: url(./music/mi6.jpeg);
     }
 
 }
